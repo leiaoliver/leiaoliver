@@ -1,6 +1,8 @@
-## Hi, I'm Léia Oliveira, front-end developer!
 
-<div align="center">
+ ## Hi, I'm Léia Oliveira, front-end developer!
+
+
+<div>
   <a href="https://github.com/leiaoliver">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leiaoliver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiaoliver&layout=compact&langs_count=7&theme=dracula"/>
@@ -18,19 +20,19 @@
   ![Git](https://img.shields.io/badge/-Git-1f2335?style=flat-square&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-1f2335?style=flat-square&logo=github)&nbsp;
   
-</br>
 
  ## 👥 &nbsp;Social Links
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/leia-oliveira388/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-leiaOliveira-1f2335?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>&nbsp;
   <a href="https://instagram.com/leiaoliver388" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-leiaOliveira-1f2335?style=for-the-badge&logo=instagram" alt="instagram"/>
+   <img align="center" src="https://img.shields.io/badge/-leiaOliver-1f2335?style=for-the-badge&logo=instagram" alt="instagram"/>
   </a>&nbsp;
 </div>
  
-<div> 
+</br>
+
   ![Snake animation](https://github.com/leiaoliver/leiaoliver/blob/output/github-contribution-grid-snake.svg)
-</div>
+
