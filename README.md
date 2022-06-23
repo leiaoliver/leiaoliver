@@ -17,3 +17,10 @@
 ![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github)&nbsp;
+
+<br>
+
+  <div>
+  <a href="https://github.com/leiaoliver">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeiaOliver&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiaOliver&layout=compact&langs_count=7&theme=synthwave"/>
