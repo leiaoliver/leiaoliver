@@ -3,6 +3,7 @@
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
+Sou apaixonada por Tecnologia e Programação, sou formada em um técnico de informática para web pela ETEC de Rio Grande da Serra e atualmente estou cursando Análise e desenvolvimento de sistemas na Fiap. Possuo conhecimento em JavaScript, HTML, CSS, React, ReactNative, typeScript, node.js, etc. Estou sempre disposta a aprender e adquirir novos conhecimentos.
 
 - 🔥 Junior Web Developer
 
