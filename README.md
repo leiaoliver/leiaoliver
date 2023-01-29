@@ -1,22 +1,65 @@
-# Léia Oliveira
+<h2 align="left">Hi 👋! My name is Léia</h2>
+
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
-[![Github Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leiaoliver)
-[![Linkedin Badge](https://firebasestorage.googleapis.com/v0/b/natan-35907.appspot.com/o/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465.svg?alt=media&token=2b238eb6-03db-4ed8-9f86-0ce2689f53df)](https://www.linkedin.com/in/leia-oliveira388/)
-[![Gmail Badge](https://firebasestorage.googleapis.com/v0/b/natan-35907.appspot.com/o/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465.svg?alt=media&token=8ae07ae9-8266-452d-aa78-067bd06fcb60)](mailto:leiaoliver388@gmail.com)
 
+- 🔥 Junior Web Developer
 
+###
 
-![HTML](https://img.shields.io/badge/-HTML-0d1117?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0d1117?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-0d1117?style=flat-square&logo=SASS)&nbsp;
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-0d1117?style=flat-square&logo=styledcomponents)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript)&nbsp;
-<br />
-![Typescript](https://img.shields.io/badge/-Typescript-0d1117?style=flat-square&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github)&nbsp;
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+</div>
+
+###
+
+<!--
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+-->
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/leiaoliver" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-leiaoliver-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/leiaoliver" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-leiaoliver-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/leiaoliver" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-leiaoliver-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
