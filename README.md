@@ -53,13 +53,13 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/leiaoliver" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-leiaoliver-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://discord.com/channels/Léia#6198" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-leiaoliver-05122A?style=flat&logo=discord" alt="discord"/>  
 </a>
-<a href="https://linkedin.com/in/leiaoliver" target="_blank">
+<a href="https://www.linkedin.com/in/leia-oliveira388/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-leiaoliver-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/leiaoliver" target="_blank">
+<a href="https://www.instagram.com/leiaoliver388/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-leiaoliver-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
