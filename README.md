@@ -5,7 +5,6 @@
 
 Sou apaixonada por Tecnologia e Programação, sou formada em técnico de informática para web pela ETEC de Rio Grande da Serra e atualmente estou cursando Análise e desenvolvimento de sistemas na Fiap. Possuo conhecimento em JavaScript, HTML, CSS, React, ReactNative, typeScript, node.js, etc. Estou sempre disposta a aprender e adquirir novos conhecimentos.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 </br>
 </br>
