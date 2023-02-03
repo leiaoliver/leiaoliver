@@ -7,11 +7,9 @@ Sou apaixonada por Tecnologia e Programação, sou formada em técnico de inform
 
 
 </br>
-</br>
 
 - 🔥 Junior Web Developer
 
-</br>
 </br>
 
 ## 🛠 &nbsp;Tech Stack
