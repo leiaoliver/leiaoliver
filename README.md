@@ -1,15 +1,12 @@
 <h2 align="left">Hi 👋 My name is Léia</h2>
 
-
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
 Sou apaixonada por Tecnologia e Programação, sou formada em técnico de informática para web pela ETEC de Rio Grande da Serra e atualmente estou cursando Análise e desenvolvimento de sistemas na Fiap. Possuo conhecimento em JavaScript, HTML, CSS, React, ReactNative, typeScript, node.js, etc. Estou sempre disposta a aprender e adquirir novos conhecimentos.
 
 
 </br>
-
 - 🔥 Junior Web Developer
-
 </br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -33,7 +30,6 @@ Sou apaixonada por Tecnologia e Programação, sou formada em técnico de inform
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leiaoliver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leiaoliver&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </p>
-
 </br>
 
 ## Contact
