@@ -38,7 +38,7 @@ Sou apaixonada por Tecnologia e Programação, sou formada em técnico de inform
 <a href="https://discord.com/channels/Léia#6198" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-leiaoliver-05122A?style=flat&logo=discord" alt="discord"/>  
 </a>
-<a href="https://www.linkedin.com/in/leia-oliveira388/" target="_blank">
+<a href="https://www.linkedin.com/in/léiaoliveira/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-leiaoliver-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/leiaoliver388/" target="_blank">
