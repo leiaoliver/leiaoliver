@@ -1,9 +1,12 @@
 <h2 align="left">Hi 👋 My name is Léia</h2>
 
-"Nothing in this world beats good old persistence. Persistence and determination alone are powerful."
+“Nothing in this world beats good old persistence. Persistence and determination alone are powerful.”
 
-Sou apaixonada por Tecnologia e Programação, sou formada em técnico de informática para web pela ETEC de Rio Grande da Serra e atualmente estou cursando Análise e desenvolvimento de sistemas na Fiap. Possuo conhecimento em JavaScript, HTML, CSS, React, ReactNative, typeScript, node.js, etc. Estou sempre disposta a aprender e adquirir novos conhecimentos.
+I am passionate about Technology and Programming. I hold a Technical Degree in Web Computer Science from ETEC de Rio Grande da Serra and a Bachelor’s Degree in Systems Analysis and Development from FIAP.
 
+I have knowledge of JavaScript, HTML, CSS, TypeScript, React, React Native, and Node.js, with a focus on building modern, responsive, and well-structured applications. I am familiar with API consumption, component-based architecture, version control, and development best practices.
+
+I am a curious, dedicated professional who is always willing to learn and continuously improve my technical skills, seeking new challenges and growth opportunities in the technology field.
 
 </br>
 - 🔥 Pleno Developer
