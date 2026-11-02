@@ -73,14 +73,6 @@ I enjoy working across the stack, from well-structured, responsive interfaces to
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leiaoliver&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leiaoliver/leiaoliver/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leiaoliver/leiaoliver/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/leiaoliver/leiaoliver/output/github-snake-dark.svg" />
-</picture>
-
 <br>
 
 ## 📫 Let's connect
